@@ -5,7 +5,6 @@
   <li>⭐Все изображения собраны по папкам</li>
   <li>⭐Реализованы интерактивные элементы при наведении</li>
   <li>⭐В написании разметки использовалась методология БЭМ</li>
-  <li>⭐Исходники находятся в папке <a href="https://github.com/kulakovskyi/body-time/tree/main/src">src</a></li>
   <li>⭐<a href="https://kulakovskyi.github.io/cofee-style/">Ссылка на проект</a></li>
 </ul>
 
